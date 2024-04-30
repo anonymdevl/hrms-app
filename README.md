@@ -1,2 +1,2 @@
 # hrms_app
-HRMS App to contain all Powersoft custom HR mods
+HRMS App to contain all HR custom mods
